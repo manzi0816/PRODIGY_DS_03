@@ -1,0 +1,1 @@
+This project was done under the Prodigy InfoTech Internship Program. This is task #03 of the series. This task features a descision tree classifier to predict if a customer will purchase a product.The bank marketing  dataset from uci machine learning repository is used.
